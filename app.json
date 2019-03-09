@@ -1,0 +1,11 @@
+{
+  "name": "Static JSON API Sample",
+  "description": "A demo app to host JSON files as an API.",
+  "repository": "https://github.com/nicroth/static-json-api-example",
+  "keywords": [
+    "node",
+    "json",
+    "static",
+    "demo"
+  ]
+}
