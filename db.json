@@ -1,0 +1,18 @@
+{
+  "stories": [
+    {
+      "title": "A demo.",
+      "body": "This is the demo story"
+    },
+    {
+      "title": "Second story",
+      "body": "We are hosting some JSON!"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Jim"
+    }
+  ]
+}
